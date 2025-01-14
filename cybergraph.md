@@ -58,7 +58,7 @@ So here is the description.
 
 #### Information exchange
 
-I learned from Dmitriy Shamenkov, that communication has phisiological roots. And it's appropriate to approximate the rules of phisiological proceses on the communication between pepole.
+I learned from dr.Dmitriy Shamenkov, that the Communication Process has phisiological roots. And it's appropriate to approximate the rules of phisiological proceses on the communication between pepole.
 
 It's better to be precise in communication. I disclose even not favorable details about me to help create a more precise picture of me.
 
