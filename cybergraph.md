@@ -38,3 +38,9 @@ So here is the description.
 I learned from Dmitriy Shamenkov, that communication has phisiological roots. And it's appropriate to approximate the rules of phisiological proceses on the communication between pepole.
 
 It's better to be precise in communication. I disclose even the not most favorable details about me to help create a more precise picture about me.
+
+#### Any educational process includes trial an error
+
+We just learn about the world by living, constantly making assumptions of the current situation and predictions. And in each moment of time we recieve feedback from the environment.
+
+Good teacher and upbringing might influence the educational process, though even the exceptional ones can't guarantee education that will prevent bad choices in all the fields of life.
