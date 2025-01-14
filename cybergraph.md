@@ -72,3 +72,17 @@ We just learn about the world by living, constantly making assumptions of the cu
 > -- Robert Benchley, in Chips off the Old Benchley, 1949
 
 I found this quote in one of the most insightful essays of all time for me: [structured procrastination](https://structuredprocrastination.com) by [John Perry](http://john.jperry.net).
+
+### My favorite books
+
+#### Man, the manipulator: the inner journey from manipulation to actualization. Shostrom, E. L. (1967).
+
+I read the translation to Russian of this book in the age of 19 and it influenced much my world view.
+
+#### What The Buddha Taught. Rahula, Walpola (1959).
+
+I read this book in the age of 35 years old and just loved it for condensed knowledge.
+
+#### I Am That: Talks with Sri Nisargadatta Maharaj, by translator Maurice Frydman (1973).
+
+I read this book in the age of 36 and it is with me since then.
