@@ -43,4 +43,3 @@ It's better to be precise in communication. I disclose even the not most favorab
 
 We just learn about the world by living, constantly making assumptions of the current situation and predictions. And in each moment of time we recieve feedback from the environment.
 
-Good teacher and upbringing might influence the educational process, though even the exceptional ones can't guarantee education that will prevent bad choices in all the fields of life.
