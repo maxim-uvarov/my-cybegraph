@@ -64,7 +64,7 @@ It's better to be precise in communication. I disclose even not favorable detail
 
 #### Any educational process includes trial an error
 
-We just learn about the world by living, constantly making assumptions of the current situation and predictions. And in each moment of time we recieve feedback from the environment.
+We just learn about the world by living, constantly making assumptions of the current situation and predictions on it. And in each moment of time we recieve feedback from the environment.
 
 #### Favorite quote about my creative process
 
