@@ -16,6 +16,19 @@ $env.cybergraph = {
 print $env.cybergraph
 ```
 
+Output:
+
+```
+╭──────────┬──────────────────────────────────────────╮
+│ title    │ My cybergraph                            │
+│ author   │ maxim-uvarov                             │
+│ updated  │ now                                      │
+│ location │ /Users/user/git/cybergraph/cybergraph.md │
+│ status   │ wip                                      │
+│ hashes   │ {record 1 field}                         │
+╰──────────┴──────────────────────────────────────────╯
+```
+
 ## Foreword
 
 For humans in general it is easier to write in markdown:)
@@ -59,5 +72,3 @@ We just learn about the world by living, constantly making assumptions of the cu
 > -- Robert Benchley, in Chips off the Old Benchley, 1949
 
 I found this quote in one of the most insightful essays of all time for me: [structured procrastination](https://structuredprocrastination.com) by [John Perry](http://john.jperry.net).
-
-
