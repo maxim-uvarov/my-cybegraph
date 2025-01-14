@@ -12,7 +12,8 @@ $env.cybergraph = {
         }
     }
 }
-alias cg_var = $env.cybegraph
+
+print $env.cybergraph
 ```
 
 ## Foreword
