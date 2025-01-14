@@ -1,3 +1,18 @@
+```nu
+$env.cybergraph = {
+    title: 'My cybergraph'
+    author: maxim-uvarov
+    updated: (date now)
+    status: wip
+    hashes: {
+        previous_version: {
+            ipfs: ''
+            sha512: ''
+        }
+    }
+}
+alias $cg_var = $env.cybegraph
+```
 
 ## Foreword
 
