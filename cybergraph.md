@@ -24,3 +24,10 @@ So here is the description.
 
 ## Information
 
+### My projects
+
+```nu
+# this command will display your github organisations
+> gh project list
+```
+
