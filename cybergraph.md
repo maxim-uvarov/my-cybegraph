@@ -12,7 +12,7 @@ $env.cybergraph = {
         }
     }
 }
-alias $cg_var = $env.cybegraph
+alias cg_var = $env.cybegraph
 ```
 
 ## Foreword
