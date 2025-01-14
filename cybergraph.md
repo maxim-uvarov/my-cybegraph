@@ -3,6 +3,7 @@ $env.cybergraph = {
     title: 'My cybergraph'
     author: maxim-uvarov
     updated: (date now)
+    location: ('cybergraph.md' | path expand)
     status: wip
     hashes: {
         previous_version: {
