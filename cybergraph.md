@@ -33,3 +33,8 @@ So here is the description.
 
 ### My principles
 
+#### Information exchange
+
+I learned from Dmitriy Shamenkov, that communication has phisiological roots. And it's appropriate to approximate the rules of phisiological proceses on the communication between pepole.
+
+It's better to be precise in communication. I disclose even the not most favorable details about me to help create a more precise picture about me.
