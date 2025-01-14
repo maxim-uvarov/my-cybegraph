@@ -1,5 +1,5 @@
 ```nu
-$env.cybergraph = {
+let $cybergraph = {
     title: 'My cybergraph'
     author: maxim-uvarov
     updated: (date now)
@@ -13,7 +13,7 @@ $env.cybergraph = {
     }
 }
 
-print $env.cybergraph
+print $cybergraph
 ```
 
 Output:
