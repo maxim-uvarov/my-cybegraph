@@ -22,3 +22,5 @@ For machines it will be much easier to write in data specific formats.
 It is possible to convert all data between each other.
 So here is the description.
 
+## Information
+
