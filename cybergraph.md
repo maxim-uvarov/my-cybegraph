@@ -42,6 +42,11 @@ So here is the description.
 
 ### My projects
 
+```nu
+# this command will display your github organisations
+> gh repo list nushell-prophet --json name,url | from json
+```
+
 #### Github
 
 #### Video courses
@@ -50,10 +55,6 @@ So here is the description.
 
 ##### Power BI for Internet Marketing, 2017-2019
 
-```nu
-# this command will display your github organisations
-> gh repo list nushell-prophet --json name,url | from json
-```
 
 ### My principles
 
