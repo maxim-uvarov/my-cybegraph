@@ -13,20 +13,21 @@ let $cybergraph = {
     }
 }
 
-print $cybergraph
+print ($cybergraph | to yaml)
 ```
 
 Output:
 
 ```
-╭──────────┬──────────────────────────────────────────╮
-│ title    │ My cybergraph                            │
-│ author   │ maxim-uvarov                             │
-│ updated  │ now                                      │
-│ location │ /Users/user/git/cybergraph/cybergraph.md │
-│ status   │ wip                                      │
-│ hashes   │ {record 1 field}                         │
-╰──────────┴──────────────────────────────────────────╯
+title: My cybergraph
+author: maxim-uvarov
+updated: 2025-01-16 11:57:03.550784 -03:00
+location: /Users/user/git/cybergraph/cybergraph.md
+status: wip
+hashes:
+  previous_version:
+    ipfs: ''
+    sha512: ''
 ```
 
 ## Foreword
