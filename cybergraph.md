@@ -52,7 +52,7 @@ So here is the description.
 
 ```nu
 # this command will display your github organisations
-> gh project list
+> gh repo list nushell-prophet --json name,url | from json
 ```
 
 ### My principles
