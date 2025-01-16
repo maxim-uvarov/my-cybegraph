@@ -93,3 +93,9 @@ I read this book in the age of 35 years old and just loved it for condensed know
 #### I Am That: Talks with Sri Nisargadatta Maharaj, by translator Maurice Frydman (1973).
 
 I read this book in the age of 36 and it is with me since then.
+
+#### The Manual: What Women want and how to give it to Them, by W. Anton.
+
+I never did a good join in approaching women even since I read this book. Though, I value its content very high: because of the style, deepness and systematic approach.
+
+
