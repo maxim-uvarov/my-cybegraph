@@ -55,6 +55,11 @@ So here is the description.
 
 ##### Power BI for Internet Marketing, 2017-2019
 
+The first course on the market, where I imagined how Power BI could be used to the tasks, that I had in my career previously. 
+
+Even though professionals using Power BI might find my solutions demonstrated in videos not of the best practices, yet I believe they served as a good kickstart for using the tool.
+
+And it worth nothing to say that examples of working with Search Enigne Statistics of a real ecommerce advertiser with good structured campaigns and performance were indispencible.
 
 ### My principles
 
