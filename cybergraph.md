@@ -37,7 +37,7 @@ For nushell users often properly formatted `.nu` script can be a convenient and 
 For Logseq users the GUI of the Logseq itself will do quite well.
 For machines it will be much easier to write in data specific formats.
 It is possible to convert all data between each other.
-So here is the description.
+So here is an example to show why this conversion might be useful.
 
 ## Information
 
