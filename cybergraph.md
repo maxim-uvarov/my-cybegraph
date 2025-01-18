@@ -30,7 +30,11 @@ hashes:
     sha512: ''
 ```
 
-## Foreword
+## Information
+
+### My projects
+
+#### Cybergraph applications
 
 For humans in general it is easier to write in markdown:)
 For nushell users often properly formatted `.nu` script can be a convenient and powerful way for communication, and on the huge need we can always use something like `numd`.
@@ -38,10 +42,6 @@ For Logseq users the GUI of the Logseq itself will do quite well.
 For machines it will be much easier to write in data specific formats.
 It is possible to convert all data between each other.
 So here is an example to show why this conversion might be useful.
-
-## Information
-
-### My projects
 
 #### Github
 
@@ -94,7 +94,7 @@ I read this book in the age of 35 years old and just loved it for condensed know
 
 I read this book in the age of 36 and it is with me since then.
 
-#### The Manual: What Women want and how to give it to Them, by W. Anton.
+#### The Manual: What Women want and how to give it to Them. W. Anton.
 
 I never did a good in approaching women even since I read this book. Though, I value its content very high: because of the style, deepness and systematic approach.
 
