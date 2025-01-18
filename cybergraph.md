@@ -49,6 +49,7 @@ So here is an example to show why this conversion might be useful.
 # this command will display your github organisations
 > gh repo list nushell-prophet --json name,url | from json
 ```
+
 #### Video courses
 
 ##### Excel for Internet Marketing, 2017
@@ -69,7 +70,7 @@ I learned from dr.Dmitriy Shamenkov, that the Communication Process has phisiolo
 
 It's better to be precise in communication. I disclose even not favorable details about me to help create a more precise picture of me.
 
-#### Any educational process includes trial an error
+#### Any educational process includes trial and error
 
 We just learn about the world by living, constantly making assumptions of the current situation and predictions on it. And in each moment of time we recieve feedback from the environment.
 
