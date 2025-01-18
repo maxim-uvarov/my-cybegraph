@@ -43,13 +43,12 @@ So here is an example to show why this conversion might be useful.
 
 ### My projects
 
+#### Github
+
 ```nu
 # this command will display your github organisations
 > gh repo list nushell-prophet --json name,url | from json
 ```
-
-#### Github
-
 #### Video courses
 
 ##### Excel for Internet Marketing, 2017
