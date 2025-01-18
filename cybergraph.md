@@ -62,7 +62,7 @@ Even though professionals using Power BI might find my solutions demonstrated in
 
 And it worth nothing to say that examples of working with Search Enigne Statistics of a real ecommerce advertiser with good structured campaigns and performance were indispencible.
 
-### My principles
+### Ideas about myself that appeared to be relevant to the current stage of this work
 
 #### Information exchange
 
