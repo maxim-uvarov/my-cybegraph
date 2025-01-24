@@ -95,8 +95,6 @@ I read this book in the age of 35 years old and just loved it for condensed know
 
 I read this book in the age of 36 and it is with me since then.
 
-#### The Manual: What Women want and how to give it to Them. W. Anton.
+#### The Manual: What Women Want and How to Give It to Them. W. Anton.
 
-I never did a good in approaching women even since I read this book. Though, I value its content very high: because of the style, deepness and systematic approach.
-
-
+I never did well in approaching women even since I read this book. However, I value its content very highly because of the style, depth, and systematic approach.
