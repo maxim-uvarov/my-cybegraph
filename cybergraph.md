@@ -36,11 +36,16 @@ hashes:
 
 #### Cybergraph applications
 
-For humans in general it is easier to write in markdown:)
-For nushell users often properly formatted `.nu` script can be a convenient and powerful way for communication, and on the huge need we can always use something like `numd`.
-For Logseq users the GUI of the Logseq itself will do quite well.
-For machines it will be much easier to write in data specific formats.
+For humans in general, it is easier to write in markdown. :)
+
+For Nushell users, a properly formatted `.nu` script can often be a convenient and powerful way to communicate, and when there is a huge need, we can always use something like `numd`.
+
+For Logseq users, the GUI of Logseq itself will do quite well.
+
+For machines, it will be much easier to write in data-specific formats.
+
 It is possible to convert all data between each other.
+
 So here is an example to show why this conversion might be useful.
 
 #### Github
@@ -56,44 +61,44 @@ So here is an example to show why this conversion might be useful.
 
 ##### Power BI for Internet Marketing, 2017-2019
 
-The first course on the market, where I imagined how Power BI could be used to the tasks, that I had in my career previously. 
+The first course on the market, where I imagined how Power BI could be used for the tasks that I had in my career previously.
 
-Even though professionals using Power BI might find my solutions demonstrated in videos not of the best practices, yet I believe they served as a good kickstart for using the tool.
+Even though professionals using Power BI might find my solutions demonstrated in videos not to be the best practices, I believe they served as a good kickstart for using the tool.
 
-And it worth nothing to say that examples of working with Search Enigne Statistics of a real ecommerce advertiser with good structured campaigns and performance were indispencible.
+And it is worth noting that examples of working with Search Engine Statistics from a real e-commerce advertiser with well-structured campaigns and performance were indispensable.
 
-### Ideas about myself that appeared to be relevant to the current stage of this work
+### Ideas about myself that have appeared to be relevant to the current stage of this work
 
 #### Information exchange
 
-I learned from dr.Dmitriy Shamenkov, that the Communication Process has phisiological roots. And it's appropriate to approximate the rules of phisiological proceses on the communication between pepole.
+Back in 2017, I learned from Dr. Dmitriy Shamenkov that the communication process has physiological roots. This means that it is appropriate to apply the rules of physiological processes to communication between people.
 
-It's better to be precise in communication. I disclose even not favorable details about me to help create a more precise picture of me.
+It's better to be precise in communication. I disclose even unfavorable details about myself to help create a more accurate picture of me.
 
 #### Any educational process includes trial and error
 
-We just learn about the world by living, constantly making assumptions of the current situation and predictions on it. And in each moment of time we recieve feedback from the environment.
+We just learn about the world by living, constantly making assumptions about the current situation and predictions based on it. In each moment of time, we receive feedback from the environment.
 
 #### Favorite quote about my creative process
 
 > "... anyone can do any amount of work, provided it isn't the work he is supposed to be doing at that moment."
 > -- Robert Benchley, in Chips off the Old Benchley, 1949
 
-I found this quote in one of the most insightful essays of all time for me: [structured procrastination](https://structuredprocrastination.com) by [John Perry](http://john.jperry.net).
+I found this quote in one of the most insightful essays of all time for me: [Structured Procrastination](https://structuredprocrastination.com) by [John Perry](http://john.jperry.net).
 
 ### My favorite books
 
 #### Man, the manipulator: the inner journey from manipulation to actualization. Shostrom, E. L. (1967).
 
-I read the translation to Russian of this book in the age of 19 and it influenced much my world view.
+I read the Russian translation of this book at the age of 19, and it significantly influenced my worldview.
 
 #### What The Buddha Taught. Rahula, Walpola (1959).
 
-I read this book in the age of 35 years old and just loved it for condensed knowledge.
+I read this book at the age of 35 and just loved it for its condensed knowledge.
 
 #### I Am That: Talks with Sri Nisargadatta Maharaj, by translator Maurice Frydman (1973).
 
-I read this book in the age of 36 and it is with me since then.
+I read this book at the age of 36, and it has been with me since then.
 
 #### The Manual: What Women Want and How to Give It to Them. W. Anton.
 
