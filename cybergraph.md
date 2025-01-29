@@ -29,6 +29,9 @@ hashes:
     ipfs: ''
     sha512: ''
 ```
+# My cybergraph
+
+The information about me written as a showcase of possibilities of using cybergraphs.
 
 ## Information
 
@@ -103,3 +106,4 @@ I read this book at the age of 36, and it has been with me since then.
 #### The Manual: What Women Want and How to Give It to Them. W. Anton.
 
 I never did well in approaching women even since I read this book. However, I value its content very highly because of the style, depth, and systematic approach.
+
