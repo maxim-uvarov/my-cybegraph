@@ -62,6 +62,8 @@ So here is an example to show why this conversion might be useful.
 
 ##### Excel for Internet Marketing, 2017
 
+Throughout my career in digital marketing, I have used Excel extensively. Through my extensive experience, I have learned this tool well. I recorded my own comprehensive course on the intricacies of my favorite tool. The beauty of this course lies in the examples from real internet marketing tasks and how to solve them using Excel.
+
 ##### Power BI for Internet Marketing, 2017-2019
 
 The first course on the market, where I imagined how Power BI could be used for the tasks that I had in my career previously.
