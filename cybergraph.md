@@ -51,6 +51,10 @@ It is possible to convert all data between each other.
 
 So here is an example to show why this conversion might be useful.
 
+##### Possibilities of using cybergaphs
+
+When we have a cybergraph as a data structure availiable, we would be able to see the history of used particles, their origins, authors and other connected particles.
+
 #### Github
 
 ```nu
