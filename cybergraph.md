@@ -55,6 +55,8 @@ So here is an example to show why this conversion might be useful.
 
 When we have a cybergraph as a data structure availiable, we would be able to see the history of used particles, their origins, authors and other connected particles.
 
+This will allow users to see not only which information was published, but also who agreed or disagreed on the validity of this information. This is an extremely powerful feature that will enable effective collaboration on the development of information for the beings.
+
 #### Github
 
 ```nu
