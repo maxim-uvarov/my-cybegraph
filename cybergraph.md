@@ -19,7 +19,7 @@ The information about me written as a showcase of possibilities of using cybergr
 
 #### Cybergraph applications
 
-For humans in general, it is easier to write in markdown. :)
+For humans in general, it is easier to write in markdown.
 
 For Nushell users, a properly formatted `.nu` script can often be a convenient and powerful way to communicate, and when there is a huge need, we can always use something like `numd`.
 
