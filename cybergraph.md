@@ -1,34 +1,14 @@
-```nu
-let $cybergraph = {
-    title: 'My cybergraph'
-    author: maxim-uvarov
-    updated: (date now)
-    location: ('cybergraph.md' | path expand)
-    status: wip
-    hashes: {
-        previous_version: {
-            ipfs: ''
-            sha512: ''
-        }
-    }
-}
-
-print ($cybergraph | to yaml)
-```
-
-Output:
-
-```
+---
 title: My cybergraph
 author: maxim-uvarov
-updated: 2025-01-16 11:57:03.550784 -03:00
-location: /Users/user/git/cybergraph/cybergraph.md
+updated: 2025-09-17T14:01:38.863611-03:00
+location: cybergraph.md
 status: wip
 hashes:
   previous_version:
     ipfs: ''
     sha512: ''
-```
+---
 # My cybergraph
 
 The information about me written as a showcase of possibilities of using cybergraphs.
