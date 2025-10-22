@@ -1,0 +1,104 @@
+# Instant View Template for maxim-uvarov.github.io
+# Template for blog posts on Уваров шарит blog
+
+# Set version to 2.1 (latest)
+~version: "2.1"
+
+# Domain and path conditions
+# Apply to blog post pages only (not homepage, tags, about, etc.)
+?path: /.+/.+/
+
+# Remove unnecessary elements
+@remove: //nav
+@remove: //div[@class="masthead"]
+@remove: //div[@class="search-content"]
+@remove: //footer[@id="footer"]
+@remove: //script
+@remove: //style
+@remove: //div[@class="page__share"]
+@remove: //div[@class="page__related"]
+
+# Extract title from the article
+title: //article//h1[@id="page-title"]/a
+title: //article//h1[@id="page-title"]
+title: //meta[@property="og:title"]/@content
+
+# Extract subtitle if exists
+subtitle: //meta[@name="description"]/@content
+
+# Extract author
+author: //meta[@name="author"]/@content
+author: //meta[@property="article:author"]/@content
+
+# Extract published date
+published_date: //meta[@property="article:published_time"]/@content
+@datetime(0): $published_date
+
+# Extract cover image
+image_url: //meta[@property="og:image"]/@content
+
+# Extract site name
+site_name: //meta[@property="og:site_name"]/@content
+site_name: "Уваров шарит"
+
+# Extract description for link preview
+description: //meta[@property="og:description"]/@content
+description: //meta[@name="description"]/@content
+
+# Channel (if you have a Telegram channel for the blog)
+# channel: "@your_channel_username"
+
+# Extract the main content
+body: //section[@class="page__content"]
+
+# Clean up body content
+@remove: $body//hr[position()=last()]
+
+# Process headings inside body
+# Convert h1 to Header (major heading)
+<h1>: $body//h1[@id]
+
+# Convert h2-h6 to appropriate types
+<h2>: $body//h2[@id]
+<h3>: $body//h3[@id]
+<h4>: $body//h4[@id]
+<h5>: $body//h5[@id]
+<h6>: $body//h6[@id]
+
+# Process lists
+<ul>: $body//ul
+<ol>: $body//ol
+<li>: $body//li
+
+# Process text formatting
+<b>: $body//strong
+<i>: $body//em
+<code>: $body//code
+
+# Process links
+<a>: $body//a[@href]
+
+# Process blockquotes
+<blockquote>: $body//blockquote
+
+# Process images (if any)
+@remove: $body//img[not(@src)]
+<figure>: $body//figure
+<img>: $body//img[@src]
+
+# Process paragraphs
+<p>: $body//p
+
+# Mark references/footnotes
+<reference>: $body//a[starts-with(@href, "#")]
+@set_attr(name, @href): $body//reference
+
+# Process line breaks
+<br>: $body//br
+
+# Remove empty paragraphs
+@remove: $body//p[not(normalize-space())]
+
+# Handle unsupported elements
+@unsupported: $body//canvas
+@unsupported: $body//svg[not(ancestor::p)]
